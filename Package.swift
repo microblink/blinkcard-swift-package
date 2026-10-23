@@ -44,8 +44,8 @@ let package = Package(name: "BlinkCard",
                       targets: [
                         .binaryTarget(
                             name: "BlinkCard",
-                            url: "https://github.com/microblink/blinkcard-ios/releases/download/v3001.0.1/BlinkCard.xcframework.zip",
-                            checksum: "7cbbb159cb8372875279cc3ac8a1d09ff98aaeb0d6d64407bdc2cf3f3918fa08")
+                            url: "https://github.com/microblink/blinkcard-ios/releases/download/v3001.0.2/BlinkCard.xcframework.zip",
+                            checksum: "7839f453128987914e9318b9b532a51af573d540d1b779d0c970821a6d5dff55")
                       ],
                       swiftLanguageModes: [.v5]
 )
